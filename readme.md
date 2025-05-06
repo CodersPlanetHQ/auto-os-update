@@ -1,4 +1,4 @@
-🚀 auto-os-update: Your Automated OS Update Script
+# 🚀 auto-os-update: Your Automated OS Update Script
 
 Tired of manually updating your VPS? This script automates OS updates, keeping your server secure and running smoothly with minimal effort! 😎
 
